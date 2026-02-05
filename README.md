@@ -38,6 +38,8 @@ A futuristic, high-performance personal portfolio website designed with a custom
 
 ## 🚀 How to Run
 
+**View Live Demo**: [https://varundandamudi.github.io/Potfolio/](https://varundandamudi.github.io/Potfolio/)
+
 Since this is a static website, no build step is required!
 
 1.  Clone the repository:
